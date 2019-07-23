@@ -1,0 +1,11 @@
+C:\Users\f0031969\Desktop\Exemplo poo matheus\bin\Debug\netcoreapp2.2\Exemplo poo matheus.deps.json
+C:\Users\f0031969\Desktop\Exemplo poo matheus\bin\Debug\netcoreapp2.2\Exemplo poo matheus.runtimeconfig.json
+C:\Users\f0031969\Desktop\Exemplo poo matheus\bin\Debug\netcoreapp2.2\Exemplo poo matheus.runtimeconfig.dev.json
+C:\Users\f0031969\Desktop\Exemplo poo matheus\bin\Debug\netcoreapp2.2\Exemplo poo matheus.dll
+C:\Users\f0031969\Desktop\Exemplo poo matheus\bin\Debug\netcoreapp2.2\Exemplo poo matheus.pdb
+C:\Users\f0031969\Desktop\Exemplo poo matheus\obj\Debug\netcoreapp2.2\Exemplo poo matheus.csprojAssemblyReference.cache
+C:\Users\f0031969\Desktop\Exemplo poo matheus\obj\Debug\netcoreapp2.2\Exemplo poo matheus.csproj.CoreCompileInputs.cache
+C:\Users\f0031969\Desktop\Exemplo poo matheus\obj\Debug\netcoreapp2.2\Exemplo poo matheus.AssemblyInfoInputs.cache
+C:\Users\f0031969\Desktop\Exemplo poo matheus\obj\Debug\netcoreapp2.2\Exemplo poo matheus.AssemblyInfo.cs
+C:\Users\f0031969\Desktop\Exemplo poo matheus\obj\Debug\netcoreapp2.2\Exemplo poo matheus.dll
+C:\Users\f0031969\Desktop\Exemplo poo matheus\obj\Debug\netcoreapp2.2\Exemplo poo matheus.pdb

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\f0031969\\Desktop\\Exemplo poo matheus\\Exemplo poo matheus.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\f0031969\\Desktop\\Exemplo poo matheus\\Exemplo poo matheus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f0031969\\Desktop\\Exemplo poo matheus\\Exemplo poo matheus.csproj",
+        "projectName": "Exemplo poo matheus",
+        "projectPath": "C:\\Users\\f0031969\\Desktop\\Exemplo poo matheus\\Exemplo poo matheus.csproj",
+        "packagesPath": "C:\\Users\\f0031969\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f0031969\\Desktop\\Exemplo poo matheus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\f0031969\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Ailos/_packaging/Ailos.Arquitetura@Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
